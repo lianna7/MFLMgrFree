@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MFL Manager Free</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_items">No items to display!</string>
+
+    <string name="title">Oops! Sorry!</string>
+    <string name="error_message">There was an error getting My Fantasy League data</string>
+    <string name="title_activity_web_view">Web View</string>
+    <string name="title_activity_home_list">Your Home Screen</string>
+    <string name="league_search">No Active League</string>
+    <string name="Refresh">Refresh</string>
+    <string name="spinner_title">Choose Your Week: </string>
+    <string name="Roster_Header">  Team Roster</string>
+    <string name="week_text">Change Week: </string>
+    <string-array name="weeks">
+        <item>""</item>
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        <item>"4"</item>
+        <item>"5"</item>
+        <item>"6"</item>
+        <item>"7"</item>
+        <item>"8"</item>
+        <item>"9"</item>
+        <item>"10"</item>
+        <item>"11"</item>
+        <item>"12"</item>
+        <item>"13"</item>
+        <item>"14"</item>
+        <item>"15"</item>
+        <item>"16"</item>
+        <item>"17"</item>
+    </string-array>
+
+</resources>
